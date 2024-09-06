@@ -1,0 +1,5 @@
+Name: Yesaullah
+CNIC: 5440003480803
+Age: 18
+Salary: 10000
+Contact Number: 123456789
